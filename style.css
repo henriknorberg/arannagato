@@ -1,3 +1,5 @@
+
+
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   margin: 0 auto;
@@ -38,11 +40,11 @@ nav a {
   text-align: right;
 }
 
-.logo{
-  
-      margin: auto;
-      display: block;
-    width:320px;
+.logo {
+
+  margin: auto;
+  display: block;
+  width: 320px;
 }
 
 article {
@@ -56,13 +58,16 @@ a {
   color: #0a0703;
 }
 
-h1, h2, strong {
+h1,
+h2,
+strong {
   color: #222;
 }
 
 h1 {
   font-size: 26px;
 }
+
 h2 {
   font-size: 23px;
 }
@@ -70,17 +75,19 @@ h2 {
 @media screen and (max-width: 430px) {
   body {
     grid-template-columns: auto;
-    grid-template-rows: minmax(40px,auto) minmax(30px,auto) auto;
+    grid-template-rows: minmax(40px, auto) minmax(30px, auto) auto;
     grid-template-areas:
-    "header"
-    "nav"
-    "ct"
+      "header"
+      "nav"
+      "ct"
   }
 
-  header, nav {
+  header,
+  nav {
     justify-self: center;
     text-align: center;
   }
+
   nav a {
     margin: 0 10px;
   }
