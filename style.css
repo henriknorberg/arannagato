@@ -1,12 +1,12 @@
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 1080px;
   min-width: 0;
   padding: 0 10px 25px;
 
   color: #444;
-
+  background: #ECAD00;
   display: grid;
   row-gap: 5px;
   grid-template-columns: auto auto;
@@ -38,15 +38,22 @@ nav a {
   text-align: right;
 }
 
+.logo{
+  
+      margin: auto;
+      display: block;
+    width:320px;
+}
+
 article {
   font-size: 16px;
 
   grid-area: ct;
-  border-top: 2px solid gray;
+  /* border-top: 2px solid gray; */
 }
 
 a {
-  color: #ffa64d;
+  color: #0a0703;
 }
 
 h1, h2, strong {
