@@ -92,10 +92,28 @@ h3{
   font-size: 32px;
 }
 
-@media screen and (max-width: 800px) {
+
+.person{
+  float:left;
+  padding: 2%;
+  width: 20%;
+}
+
+.events{
+clear: both;
+}
+
+.even
+
+.person-img{
+  width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
 
 
   /* article {
     font-size:32px;
   } */
 }
+
