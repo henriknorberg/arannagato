@@ -113,10 +113,10 @@ clear: both;
 @media screen and (max-width: 1000px) {
 
   .bg{
-  dsiplay:none;
+    display:none;
   }
-  /* article {
-    font-size:32px;
-  } */
+   article {
+    margin-top:200px;
+  } 
 }
 
