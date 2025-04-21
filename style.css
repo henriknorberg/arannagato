@@ -112,7 +112,9 @@ clear: both;
 
 @media screen and (max-width: 1000px) {
 
-
+  .bg{
+  dsiplay:none;
+  }
   /* article {
     font-size:32px;
   } */
