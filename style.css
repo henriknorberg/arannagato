@@ -112,6 +112,10 @@ clear: both;
 
 @media screen and (max-width: 1000px) {
 
+  .white, .white h1 {
+    color: #333;
+}
+
   .bg{
     display:none;
   }
