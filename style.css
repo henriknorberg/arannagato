@@ -68,7 +68,7 @@ img {
 /* The content should naturally sit below the banner */
 .content {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 260px auto;
   /* Centers the text horizontally */
   padding: 20px;
   /* Adds breathing room on mobile */
