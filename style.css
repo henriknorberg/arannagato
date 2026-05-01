@@ -61,7 +61,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('./eunacave.jpg') no-repeat center center;
+  background: url('eunacave.jpg') no-repeat center center;
   background-size: cover;
 }
 
