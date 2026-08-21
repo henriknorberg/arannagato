@@ -51,7 +51,7 @@ body {
   text-align: center;
   color: #ffffff;
   padding: 2rem 1rem;
-  max-width: 800px;
+  max-width: 900px;
   margin-top: -300px;
 }
 
@@ -65,10 +65,10 @@ body {
 }
 
 .hero-title {
-  font-size: 5rem;
+  font-size: 12rem;
   font-weight: 700;
   margin: 0 0;
-  letter-spacing: 0.05em;
+  letter-spacing: -0.1em;
   color: #eee;
   text-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
 }
