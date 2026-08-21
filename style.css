@@ -35,7 +35,7 @@ body {
 /* Semi-transparent dark overlay for high contrast */
 .hero-overlay {
   position: absolute;
-  top: -10;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -52,6 +52,7 @@ body {
   color: #ffffff;
   padding: 2rem 1rem;
   max-width: 800px;
+  margin-top: 200px;
 }
 
 .hero-logo {
@@ -269,7 +270,7 @@ strong {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 64px;
 }
 
 h2 {
