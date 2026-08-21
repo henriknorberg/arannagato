@@ -21,7 +21,7 @@ body {
   margin-right: -50vw;
   min-height: 80vh;
   /* Adjust height as needed (e.g., 450px or 70vh) */
-  background-image: url('./banner.jpg');
+  background-image: url('/banner.jpg');
   /* Replace with your hero image */
   background-size: cover;
   background-position: center center;
